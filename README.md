@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # COPILOT CHAT EN ATRACCIÓN Y DESARROLLO DE TALENTO
 
 Este seminario está diseñado para transformar los procesos de adquisición de talento y desarrollo organizacional mediante el uso de IA. El programa abarca desde la optimización del sourcing y la automatización del filtrado curricular, hasta el diseño instruccional personalizado para planes de onboarding y la retención del talento clave utilizando analítica de datos.
@@ -32,8 +34,15 @@ Este seminario está diseñado para transformar los procesos de adquisición de 
   - Descripción: Crear un tablero de control para seguimiento e indicadores de capacitación basado en el capítulo.
   - Duración estimada: 60 min
 
-## Flujo de colaboración
+------------
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+
+## 📬 Contacto y más información
+
+Si tienes alguna pregunta o necesitas soporte durante la realización de los laboratorios, no dudes en **contactar al equipo de Netec**. También puedes encontrar más recursos y cursos en nuestra página oficial:
+
+👉 https://netec.com
+
+---
+
+¡Bienvenido! Te recomendamos realizar los laboratorios en el orden presentado, ya que cada práctica construye la infraestructura y los conocimientos necesarios para la siguiente, culminando con un escenario completo de migración y operación.
